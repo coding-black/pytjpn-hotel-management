@@ -6,7 +6,7 @@ def cust():
     while True:
         print('OK\n')
 
-        cust = input("enter your item you want to oder : ")
+        cust = input("enter your item you want to order : ")
 
         if cust in avalible_items:
             print("thanks for oder")
